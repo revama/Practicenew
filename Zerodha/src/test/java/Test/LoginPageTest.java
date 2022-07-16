@@ -67,6 +67,7 @@ public void forgotpasswordLinkTest()
 {
 	ZerodhaLoginPage zerodhaLoginPage=new ZerodhaLoginPage(driver);
 	zerodhaLoginPage.clickInSignUP();
+	System.out.println("Final Git");
 }
 }
 	
